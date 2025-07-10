@@ -1,2 +1,1 @@
-
-Este proyecto implementa una **reverse shell básica sobre HTTP**, con un servidor que recibe conexiones y comandos, y un cliente que ejecuta esos comandos y retorna la salida. Está desarrollado en Python puro, sin frameworks externos, usando `http.server` y `urllib`.
+This project implements a basic HTTP reverse shell, featuring a server that receives connections and commands, and a client that executes those commands and returns the output. It is developed in pure Python, without external frameworks, using http.server and urllib.
